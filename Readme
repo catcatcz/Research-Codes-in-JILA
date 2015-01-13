@@ -1,6 +1,0 @@
-# Research-Codes-in-JILA
-Research Codes in JILA
-
-In this repository, I have serveral numerical packages, 
-CGChen is correlated Gaussian basis function in few body problem package. It was initially developed by Javier von Stecher, and later developed by me.
-Bspline is Bspline basis function for scattering problem package. 
